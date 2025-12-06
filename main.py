@@ -19,6 +19,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 #     "max_scrolls": 12
 # }
 import sys
+print("Starting Script")
 input_data = {}
 if sys.stdin.isatty():
     # running locally, fallback
