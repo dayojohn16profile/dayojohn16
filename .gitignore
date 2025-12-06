@@ -1,0 +1,2 @@
+*.json
+using_apify.py # if it contains API token
