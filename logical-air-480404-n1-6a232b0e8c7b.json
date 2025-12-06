@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "logical-air-480404-n1",
+  "private_key_id": "6a232b0e8c7b5480253c9569e064747fc370fe72",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5l5qvj/y7VXak\n0FNtib/x2ndcIzXm24F2JqzZpNeiWXW+nfVhBEfvDqD2s9/MVgEUzQM54iVNvn30\nwvwRp8zE1J8GxaMJ8d22k45nvAVn5StcwTtQtqOTP6fk1GvZBVgGzWmTgbhZOSNr\nFZx10E33PvSQGsTeh0lLw26yWJCZZ38ZE4Xu4Tl/TuQW89adc6G7MkcufYWKfcFi\nx+wE2Mg2eZ6uuhMk4zI6y70lod7gfO8lkhKl07hPymyU6d3nwPH28o2coJgHuJFR\nrzn0XPUK7D9W3Glp7RAy9jFbqVCrQOqIVHmofeB5C+ZETqyFd1rmgORNz9CXIHjA\nIFGhmXJDAgMBAAECggEACnMYyI3I4xtaxMjeCarZ3do5IjzxSgBN98MRtGdtpLx4\nvrTSHhZJnpIqSfmyviSRhwRMDDRJeWkiWmeoHa5e/y4hjhYOqf6uRxtjxz905nam\nzGAs4MyHxUCuSVoUgHGmlSt3qFCDerKW5e6fkpqZ6TPoPTzknMrtO5DTaMNH0PtE\nMsIpc9YsvtlC5cg0K7uTOPp60Rlk1Q7+zHCkGL1lBhUUEj3ndaXPG17TxVNVwc0L\n1+W2hH/OHRu37lGe7bBZXBfjjZA5c2ZwnCk5ybBRznTN3qskrfXkp8A5XqikW/pH\nQhdIu0giupeHhKCcmGFvzsY38gRUgFNRTPakVfioIQKBgQDsMVOI+6lZF+hL8iOC\nEOsL5ZGPC+xeqdzbSd2BRI7Sr20pLzisNILUzFlHUwTS6zY6b1zqLXknCgpqO2yV\nkafs+JVA59h4XA289iPVGPHd1LwjY/albzjCcr3MZD6E5WJRb9xCP2VA0Vd15gQg\nMsgLKHF4aY/+T1OTxDpBEKRHKwKBgQDJJ/fAl6q5V9wi0yZ/2Cv4cyIwva29ZLvT\nrqtivxNOgTbEonkY/ZvWezeMtNfxGZLn/CuOKWF2bgAKiI7RVXQ/GcBBXcx+U5EF\nS7zutusx7++0ebIORkkBLwXy/RrxMX93Wlb/UJ2MdOc3DWOT4rVnUNwIY5sVztHq\nYDir7W/1SQKBgQC1sKQf5ee5v2hUs6mY7kbBWhGExplHoMdicQnR3Nk5PPVuDwM7\nhRF3fNLYyQYW8hU/EleZVO2zmEe2vIuk6u0Qn5DA4xhkTfvLdlTOImg8St+HIeik\nDlDNU9KpHhvxwzrEhpYa6AWNvPvYl95onmfAHZZcGGhKKt+R9gsR7ilRDQKBgFhO\n7oojSzTQ6Hh1YApx+WO6D8F8E+D4byjQHrdcEPq+6S9L8IPTGm3/a/Sek8ppor+r\nSefALORUCDqXlrM5o63r/SX1KsguoZTEmi3mKbyjjAUcA9oWawhU/3ScPw6x3zaj\nd1vgpTm7PKJDg3qx5Vd0/RPFvpjFUgxlr5tywlrZAoGAMATJbQOsUGTWQJxK/Ivs\nmH5yqmdNvccy895W4yWfnbbcV6FRECBnLWvT93v+IcmkPUBT0+IfEyTuBYbu1nS9\nIPMcsWli4nVFtgPeYQB6z+AzoHZHMuQ/jR+uT4wsVk2Qx1uzXyFnsP5dCAIuT7vl\nkATwV3V54DnMDcvWBbuNJ08=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheetsscraperbot@logical-air-480404-n1.iam.gserviceaccount.com",
+  "client_id": "102355838771900668380",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheetsscraperbot%40logical-air-480404-n1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
